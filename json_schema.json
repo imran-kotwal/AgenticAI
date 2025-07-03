@@ -1,0 +1,6 @@
+{
+    "title": "student",
+    "description" : "Schema about students",
+    "type" : "Object"
+    
+}
